@@ -1,0 +1,78 @@
+$date
+  Wed Dec 15 08:27:33 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 8 ! a[7:0] $end
+$var reg 8 " b[7:0] $end
+$var reg 8 # f[7:0] $end
+$scope module ander $end
+$var reg 8 $ a[7:0] $end
+$var reg 8 % b[7:0] $end
+$var reg 8 & f[7:0] $end
+$scope module (0) $end
+$upscope $end
+$scope module (1) $end
+$upscope $end
+$scope module (2) $end
+$upscope $end
+$scope module (3) $end
+$upscope $end
+$scope module (4) $end
+$upscope $end
+$scope module (5) $end
+$upscope $end
+$scope module (6) $end
+$upscope $end
+$scope module (7) $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+bXXXXXXXX !
+bXXXXXXXX "
+bXXXXXXXX #
+bXXXXXXXX $
+bXXXXXXXX %
+bXXXXXXXX &
+#1000000
+b00100011 !
+b01010101 "
+b00000001 #
+b00100011 $
+b01010101 %
+b00000001 &
+#2000000
+b00101011 !
+b00010101 "
+b00101011 $
+b00010101 %
+#3000000
+b01101011 !
+b00110101 "
+b00100001 #
+b01101011 $
+b00110101 %
+b00100001 &
+#4000000
+b10110111 !
+b01010101 "
+b00010101 #
+b10110111 $
+b01010101 %
+b00010101 &
+#5000000
+b00100011 !
+b00000001 #
+b00100011 $
+b00000001 &
+#6000000
+b01111101 "
+b00100001 #
+b01111101 %
+b00100001 &
+#7000000

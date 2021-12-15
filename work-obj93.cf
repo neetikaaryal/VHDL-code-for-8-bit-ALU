@@ -1,0 +1,22 @@
+v 4
+file . "nandgate_tb.vhdl" "9025dc02b5dd5b637e1a7244b73390e9e28d598c" "20211215135329.781":
+  entity nand8_tb at 1( 0) + 0 on 63;
+  architecture nand8_tb_df of nand8_tb at 7( 91) + 0 on 64;
+file . "xorgate_tb.vhdl" "fc6ec69a907613ab438b04329a0cc0faaa9da512" "20211215040813.808":
+  entity xor8_tb at 1( 0) + 0 on 55;
+  architecture xor8_tb_df of xor8_tb at 7( 89) + 0 on 56;
+file . "logicunit_tb.vhdl" "4ac0ce863cc81ee94f9375c5ebb17380172771c1" "20211215031448.544":
+  entity and8_tb at 1( 0) + 0 on 41;
+  architecture and8_tb_df of and8_tb at 7( 89) + 0 on 42;
+file . "logicunit.vhdl" "df94c5aaa0f822990d68c67f8f6c29e1c3e02b90" "20211215031443.231":
+  entity and8 at 1( 0) + 0 on 39;
+  architecture and8_df of and8 at 16( 339) + 0 on 40;
+file . "logicunit1.vhdl" "e0df13a3729807a37ee8ae016af33b75e947fd74" "20211215033628.283":
+  entity or8 at 2( 21) + 0 on 45;
+  architecture or8_df of or8 at 15( 333) + 0 on 46;
+file . "xorgate.vhdl" "bb9f07d862f3280985e9318cbcaaa7b4e27533ef" "20211215040759.914":
+  entity xor8 at 2( 21) + 0 on 53;
+  architecture xor8_df of xor8 at 15( 335) + 0 on 54;
+file . "nandgate.vhdl" "4f1d25b0aec9157f6ac287f34b00945025558170" "20211215135321.487":
+  entity nand8 at 2( 22) + 0 on 61;
+  architecture nand8_df of nand8 at 15( 338) + 0 on 62;
